@@ -1,0 +1,4 @@
+no prompt abrir o diretorio do arquivo
+rustc arquivo.rs compila o programa rust
+
+.\arquivo (arquivo.exe) executa o programa
